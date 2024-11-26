@@ -10,9 +10,14 @@
 ### User Features:
 1. **Authentication System:**
    - User registration and login.
+   - 
  ![User Dashboard](image/register.png "User Dashboard")
 
    - Email verification during sign-up.
+   - 
+      ![User Dashboard](image/otp.png "User Dashboard")
+     
+       ![User Dashboard](image/otpemail.png "User Dashboard")
    - Forgot Password functionality for secure recovery.
 
 2. **Interactive Pizza Creation Flow:**
