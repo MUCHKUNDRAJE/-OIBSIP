@@ -1,7 +1,7 @@
 # 🍕 PizzaHunt
 
 **PizzaHunt** is a full-stack web application that lets users create and order custom pizzas while providing an admin dashboard for managing inventory and order status. Developed as part of an internship with **OASIS Infobyte**, this project demonstrates a seamless user experience and efficient backend management.
-![User Dashboard](images/pp.png "User Dashboard")
+![User Dashboard](image/pp.png "User Dashboard")
 ---
 
 ## 🎯 Project Overview
