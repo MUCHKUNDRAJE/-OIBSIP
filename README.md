@@ -21,7 +21,8 @@
    - Forgot Password functionality for secure recovery.
      
 2.**User Interface:**
-      ![User Dashboard](image/user.png "User Dashboard")
+
+   ![User Dashboard](image/user.png "User Dashboard")
   [![Watch the video]()](image/image/vedio1.mp4)
 
 
@@ -51,6 +52,8 @@
 
 2. **Stock Monitoring:**
    - Email notifications triggered when stock levels drop below threshold (e.g., pizza base < 20).
+     
+        ![User Dashboard](image/alert.png "User Dashboard")
 
 3. **Order Control:**
    - View and manage orders.
