@@ -19,18 +19,21 @@
      
        ![User Dashboard](image/otpemail.png "User Dashboard")
    - Forgot Password functionality for secure recovery.
+2 ** User Interface **
+      ![User Dashboard](image/user.png "User Dashboard")
 
-2. **Interactive Pizza Creation Flow:**
+3. **Interactive Pizza Creation Flow:**
    - Choose a pizza base from 5 options.
    - Select a sauce from 5 available choices.
    - Pick your preferred cheese.
    - Add veggies and customize with multiple options.
+   ![User Dashboard](image/custom.png "User Dashboard")
 
-3. **Order Placement:**
+4. **Order Placement:**
    - Integrated Razorpay for payment processing in test mode.
    - Simulated checkout system to place and confirm orders.
 
-4. **Order Tracking:**
+5. **Order Tracking:**
    - Real-time order status updates, including:
      - Order Received.
      - In the Kitchen.
