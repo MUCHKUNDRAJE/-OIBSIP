@@ -21,7 +21,8 @@
    - Forgot Password functionality for secure recovery.
 2 **User Interface:**
       ![User Dashboard](image/user.png "User Dashboard")
-      ![User Dashboard](image/vedio1.mp4 "User Dashboard")
+  [![Watch the video]()](image/image/vedio1.mp4)
+
 
 3. **Interactive Pizza Creation Flow:**
    - Choose a pizza base from 5 options.
