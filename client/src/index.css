@@ -1,0 +1,79 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: food;
+  src: url(/fonts/PopularCafeNF.woff2);
+}
+
+
+.bhai{
+  font-family: gilroy;
+}
+#bhai2{
+  font-family: gilroy;
+}
+.name{
+  font-family:gilroy;
+}
+.custom{
+  font-family:gilroy;
+}
+
+.new{
+  font-family: "general sans";
+}
+
+/* .ri-arrow-left-circle-fill :focus #first {
+  width: 80px;
+  height: 80px;
+  transition: all ease 0.5;
+} */
+.inventory-item {
+  height: 80px;
+  width: 80px;
+}
+.wrapper .inventory-item {
+  height: 80px ;
+  width: 80px 
+}
+
+.hi {
+  display: flex;
+  opacity: 1;
+}
+
+#main {
+  overflow: hidden;
+  position: relative;
+}
+::-webkit-scrollbar {
+  width: 9px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background:white;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 5px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+#popup{
+  transition: all ease 0.5s;
+}
+
+.animate{
+  animation: anime 1ms;
+}
+
+
