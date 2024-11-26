@@ -19,8 +19,9 @@
      
        ![User Dashboard](image/otpemail.png "User Dashboard")
    - Forgot Password functionality for secure recovery.
-2 ** User Interface **
+2 **User Interface:**
       ![User Dashboard](image/user.png "User Dashboard")
+      ![User Dashboard](image/vedio1.mp4 "User Dashboard")
 
 3. **Interactive Pizza Creation Flow:**
    - Choose a pizza base from 5 options.
