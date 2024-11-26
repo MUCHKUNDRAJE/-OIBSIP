@@ -10,7 +10,7 @@
 ### User Features:
 1. **Authentication System:**
    - User registration and login.
- ![User Dashboard]("image/register.png "User Dashboard")
+ ![User Dashboard](image/register.png "User Dashboard")
 
    - Email verification during sign-up.
    - Forgot Password functionality for secure recovery.
