@@ -23,7 +23,7 @@
 2.**User Interface:**
 
    ![User Dashboard](image/user.png "User Dashboard")
-  [![Watch the video]()](image/image/vedio1.gif)
+  [![Watch the video]()](image/vedio1.gif)
 
 
 3. **Interactive Pizza Creation Flow:**
