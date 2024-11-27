@@ -50,6 +50,9 @@
 1. **Inventory Management:**
    - Track available stocks of pizza bases, sauces, cheese, veggies, and meats.
    - Automated stock updates after order placement.
+    ![Demo of the feature](image/vedio2.gif)
+  ![Demo of the feature](image/vedio3.gif)
+
 
 2. **Stock Monitoring:**
    - Email notifications triggered when stock levels drop below threshold (e.g., pizza base < 20).
