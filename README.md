@@ -10,22 +10,34 @@
 ### User Features:
 1. **Authentication System:**
    - User registration and login.
- ![User Dashboard]("image/Screenshot 2024-11-26 211531.png" "User Dashboard")
+   - 
+ ![User Dashboard](image/register.png "User Dashboard")
 
    - Email verification during sign-up.
+   - 
+      ![User Dashboard](image/otp.png "User Dashboard")
+     
+       ![User Dashboard](image/otpemail.png "User Dashboard")
    - Forgot Password functionality for secure recovery.
+     
+2.**User Interface:**
 
-2. **Interactive Pizza Creation Flow:**
+   ![User Dashboard](image/user.png "User Dashboard")
+  [![Watch the video]()](image/vedio1.gif)
+
+
+3. **Interactive Pizza Creation Flow:**
    - Choose a pizza base from 5 options.
    - Select a sauce from 5 available choices.
    - Pick your preferred cheese.
    - Add veggies and customize with multiple options.
+   ![User Dashboard](image/custom.png "User Dashboard")
 
-3. **Order Placement:**
+4. **Order Placement:**
    - Integrated Razorpay for payment processing in test mode.
    - Simulated checkout system to place and confirm orders.
 
-4. **Order Tracking:**
+5. **Order Tracking:**
    - Real-time order status updates, including:
      - Order Received.
      - In the Kitchen.
@@ -40,6 +52,8 @@
 
 2. **Stock Monitoring:**
    - Email notifications triggered when stock levels drop below threshold (e.g., pizza base < 20).
+     
+        ![User Dashboard](image/alert.png "User Dashboard")
 
 3. **Order Control:**
    - View and manage orders.
