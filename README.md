@@ -23,7 +23,9 @@
 2.**User Interface:**
 
    ![User Dashboard](image/user.png "User Dashboard")
-  [![Watch the video]()](image/vedio1.gif)
+   
+![Demo of the feature](image/vedio1.gif)
+
 
 
 3. **Interactive Pizza Creation Flow:**
@@ -49,13 +51,18 @@
 1. **Inventory Management:**
    - Track available stocks of pizza bases, sauces, cheese, veggies, and meats.
    - Automated stock updates after order placement.
+   
 
-2. **Stock Monitoring:**
+   ![Demo of the feature](image/vedio2.gif)
+   ![Demo of the feature](image/vedio3.gif)
+
+
+3. **Stock Monitoring:**
    - Email notifications triggered when stock levels drop below threshold (e.g., pizza base < 20).
      
         ![User Dashboard](image/alert.png "User Dashboard")
 
-3. **Order Control:**
+4. **Order Control:**
    - View and manage orders.
    - Update order statuses with changes reflected in the user dashboard.
 
