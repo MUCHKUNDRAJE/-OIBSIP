@@ -184,7 +184,7 @@ function User() {
       prefill: {
         name: 'Customer Name',
         email: 'customer@example.com',
-        contact: '999999999',
+        contact: '9999999999',
       },
       theme: {
         color: '#F37254',
