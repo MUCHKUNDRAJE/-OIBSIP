@@ -2,7 +2,7 @@
 
 **PizzaHunt** is a full-stack web application that lets users create and order custom pizzas while providing an admin dashboard for managing inventory and order status. Developed as part of an internship with **OASIS Infobyte**, this project demonstrates a seamless user experience and efficient backend management.
 
-![User Dashboard](image/pp.png "User Dashboard")
+![User Dashboard](image/pp.png "Logo")
 ---
 
 ## 🎯 Project Overview
@@ -11,13 +11,13 @@
 1. **Authentication System:**
    - User registration and login.
    - 
- ![User Dashboard](image/register.png "User Dashboard")
+ ![User Dashboard](image/register.png "Registration page")
 
    - Email verification during sign-up.
    - 
-      ![User Dashboard](image/otp.png "User Dashboard")
+      ![User Dashboard](image/otp.png "Otp")
      
-       ![User Dashboard](image/otpemail.png "User Dashboard")
+       ![User Dashboard](image/otpemail.png " Mail ")
    - Forgot Password functionality for secure recovery.
      
 2.**User Interface:**
@@ -33,10 +33,10 @@
    - Select a sauce from 5 available choices.
    - Pick your preferred cheese.
    - Add veggies and customize with multiple options.
-   ![User Dashboard](image/custom.png "User Dashboard")
+   ![User Dashboard](image/custom.png "Custom Dashboard")
 
 4. **Order Placement:**
-      ![User Dashboard](image/Payment.png "User Dashboard")
+      ![User Dashboard](image/Payment.png "Razorpay Dashboard")
    - Integrated Razorpay for payment processing in test mode.
    - Simulated checkout system to place and confirm orders.
 
@@ -64,7 +64,7 @@
 3. **Stock Monitoring:**
    - Email notifications triggered when stock levels drop below threshold (e.g., pizza base < 20).
      
-        ![User Dashboard](image/alert.png "User Dashboard")
+        ![User Dashboard](image/alert.png "alert mail")
 
 4. **Order Control:**
    - View and manage orders.
@@ -85,11 +85,7 @@
 
 ### Prerequisites
 - Node.js installed on your system.
-- MongoDB set up locally or via a cloud service (e.g., MongoDB Atlas).
+- MongoDB set up locally ( MongoDB Compass).
 
-### Installation Steps
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/PizzaHunt.git
-   cd PizzaHunt
+
 
