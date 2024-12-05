@@ -48,7 +48,10 @@
 ---
 
 ### Admin Features:
-1. **Inventory Management:**
+
+1. **Admin Interface:**
+     ![User Dashboard](image/admin.png "User Dashboard")
+2. **Inventory Management:**
    - Track available stocks of pizza bases, sauces, cheese, veggies, and meats.
    - Automated stock updates after order placement.
    
