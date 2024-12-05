@@ -36,6 +36,7 @@
    ![User Dashboard](image/custom.png "User Dashboard")
 
 4. **Order Placement:**
+      ![User Dashboard](image/Payment.png "User Dashboard")
    - Integrated Razorpay for payment processing in test mode.
    - Simulated checkout system to place and confirm orders.
 
