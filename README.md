@@ -36,6 +36,7 @@
    ![User Dashboard](image/custom.png "Custom Dashboard")
 
 4. **Order Placement:**
+
       ![User Dashboard](image/Payment.png "Razorpay Dashboard")
    - Integrated Razorpay for payment processing in test mode.
    - Simulated checkout system to place and confirm orders.
@@ -51,6 +52,7 @@
 ### Admin Features:
 
 1. **Admin Interface:**
+   
      ![User Dashboard](image/admin.png "User Dashboard")
 2. **Inventory Management:**
    - Track available stocks of pizza bases, sauces, cheese, veggies, and meats.
